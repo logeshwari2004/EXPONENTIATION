@@ -19,9 +19,14 @@ Developed by:
 RegisterNumber: 
 */
 ```
+def expo():
+    a=int(input())
+    x=a**2
+    return x
+print("Exponentiation of a given number:",expo())
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](expontiationoutput.png)
 
 
 ## Result:
